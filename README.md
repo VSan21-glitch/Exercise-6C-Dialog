@@ -2,8 +2,10 @@
 
 # References
 -Added character and diagoouge
-Textures from: https://freepbr.com/
-Models and animations from: Mixamo.com
+-Added Skin
+-Added Weapon that plays animation when fired
+-Added dialogue based conversation
+-Added Player with 3D camera
 
 # Created by 
 vantin San
